@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "64e182198e5c0ab1c061caaa3db5d566d9dfa6e7b1971696792f178c417faf76"
+hash = "5fb073f3ad5a827812bb334296184c6178f7536ad7ed22d4a67578dc3aa96144"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7d3727ee323a1e3e6a41719db11e343e0658cc149274b9d4426acc9ae21b1363"
+hash = "09d31307f81a06df5ab65ff57c2c830180bbc1138bb8326557172b0a883d6b8b"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "945b097fe9fe561eb72dc811fd49f8f3dd43d88f7689c11a4a0863f70a4d39b8"
+hash = "df11b66e152011f96cc5a4dbf35d2dec99c4373cb19a8c1c761368170d425cf4"
 metafile = true
 
 [[files]]
@@ -72,10 +72,10 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "57a8e4ea389f17fb4a75d8120c9511fed85958bc952e0a32fabc7c3c9138e368"
+hash = "3451be7d31e029ff21bb01fe3a3f39e81060c5df7d079e33310d74d09254e82b"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "cff6e118a7d2649ab479bbcf328d463349cfc8dc4bac3f5025395f34c2b505bb"
+hash = "1ab96020d0954a72b5cc150b375f57cf8968ac2c1809a000472076f8675eb9ea"
 metafile = true
