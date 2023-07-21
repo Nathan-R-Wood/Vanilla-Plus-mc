@@ -1,13 +1,13 @@
 name = "Vanilla Plus"
 author = "Wizard Dragon"
-version = "1.0.1"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "177f939e73fab19ffdf3e913b9d3faef8075958579156299b5700af641dd7366"
+hash = "9a68fdd8ff5530b5d85ea168a53dcd1665936cc68ddbafc46edab856cbab7afa"
 
 [versions]
-minecraft = "1.19.3"
-quilt = "0.17.10"
+minecraft = "1.20.1"
+quilt = "0.19.2"

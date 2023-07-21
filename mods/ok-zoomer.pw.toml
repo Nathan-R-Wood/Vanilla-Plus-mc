@@ -1,13 +1,13 @@
 name = "Ok Zoomer"
-filename = "ok_zoomer-5.0.0-beta.10+1.19.3.jar"
+filename = "ok_zoomer-5.0.0-beta.12+1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/aXf2OSFU/versions/oOWfXNvO/ok_zoomer-5.0.0-beta.10%2B1.19.3.jar"
+url = "https://cdn.modrinth.com/data/aXf2OSFU/versions/fGpO4l2z/ok_zoomer-5.0.0-beta.12%2B1.20.jar"
 hash-format = "sha1"
-hash = "e81b4a7243033f1e7608328adf716974b389a71b"
+hash = "b2b131e501ad4219a9abf0f94e4f95d9a39632e0"
 
 [update]
 [update.modrinth]
 mod-id = "aXf2OSFU"
-version = "oOWfXNvO"
+version = "fGpO4l2z"
