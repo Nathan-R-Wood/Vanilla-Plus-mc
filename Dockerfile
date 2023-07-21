@@ -5,7 +5,7 @@ WORKDIR /Minecraft
 ADD https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-installer/latest/quilt-installer-latest.jar /Minecraft
 ADD https://github.com/packwiz/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar /Minecraft/server
 RUN echo "eula=true" > server/eula.txt
-RUN java -jar quilt-installer-*.jar install server 1.19.3 0.17.10 --download-server
+RUN java -jar quilt-installer-*.jar install server 1.20.1 0.19.2 --download-server
 RUN rm quilt-installer-*.jar
 WORKDIR /Minecraft/server
 COPY . /Minecraft/server
