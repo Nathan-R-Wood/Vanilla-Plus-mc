@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
+hash = "b1e256001d9d86101d4fd0c888099bcf25b0b72fffc8a5a64505dcb48fb6a652"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "eea0ffd49f5f80f7d0126ac25d440d4f3e82a1bbba85f940f3921880c1b7913c"
+hash = "7bf7b25dd95d5903ffdc4107175e2b197ebd6704cc59d1a05cb3ba12d91aa14b"
 metafile = true
 
 [[files]]
