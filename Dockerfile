@@ -1,8 +1,7 @@
 FROM docker.io/openjdk as builder
-RUN echo Running this build file accepts the minecraft EULA
 RUN mkdir -p /Minecraft/server
 WORKDIR /Minecraft
-ADD https://meta.fabricmc.net/v2/versions/loader/1.20.6/0.15.11/1.0.1/server/jar /Minecraft/server/mc.jar
+ADD https://meta.fabricmc.net/v2/versions/loader/1.21/0.15.11/1.0.1/server/jar /Minecraft/server/mc.jar
 ADD https://github.com/packwiz/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar /Minecraft/server
 RUN echo "eula=true" > server/eula.txt
 WORKDIR /Minecraft/server
